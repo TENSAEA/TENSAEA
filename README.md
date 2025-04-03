@@ -1,8 +1,7 @@
-# Tensae Aschalew - Software Engineer
 
 <div align="center">
   <h1 style="font-size: 3em; background: linear-gradient(45deg, #ff00ff, #00ffff, #ff00ff); -webkit-background-clip: text; color: transparent;">
-    Tensae Aschalew
+    Tensae Aschalew - Software Enginee
   </h1>
   <p>Software Engineer | Founder | Innovator</p>
   <p>
