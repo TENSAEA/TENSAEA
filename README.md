@@ -115,8 +115,8 @@ Experienced software engineer with a proven track record of remote work, leading
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=TENSAEA&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/TENSAEA">
+    <img src="https://streak-stats.demolab.com/?user=TENSAEA&theme=radical" alt="GitHub Streak"/>
   </a>
 </div>
 
