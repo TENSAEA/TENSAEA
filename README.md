@@ -114,11 +114,7 @@ Experienced software engineer with a proven track record of remote work, leading
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TENSAEA&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/TENSAEA">
-    <img src="https://streak-stats.demolab.com/?user=TENSAEA&theme=radical" alt="GitHub Streak"/>
-  </a>
-</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
